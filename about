@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+  <style>
+    body {
+        font-family: 'Roboto';font-size: 22px;
+        background: url("image.svg");
+        background-size: 200%, 200%;
+        background-repeat: no-repeat;
+    }
+    h1 {
+      color: rgb(1,0,75)
+    }
+    h2 {
+      color: rgb(1,0,75)
+    }
+    h3 {
+      color: rgb(1,0,75)
+    }
+    h4 {
+      color: rgb(1,0,75)
+    }
+</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  <div id="grad1"></div>
+  <style>
+    div {
+      border-color: red;
+    }
+  </style>
+    <div class="topnav">
+  <a href="/home">Home</a>
+  <a class="active" href="/about">About</a>
+  <a href="/mythings">My Creations</a>
+</div>
+    <script src="script.js"></script>
+    <h1>I Make Things</h1>
+    <hr>
+    <h2>Just in General</h2>
+    <h3>Like this!</h3>
+    <input type = color></input>
+    <h4>It Doesn't Do Anything, Though</h4>
+    <div class="footer">
+      <p>(c) Not Copywrite 2020</p>
+    </div>
+  </body>
+</html>
